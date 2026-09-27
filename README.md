@@ -14,11 +14,8 @@
 ![Dashboard](docs/screenshots/dashboard.png)
 *Main dashboard: tactical and accumulation zones with SL/TP marked*
 
-![Telegram notification](docs/screenshots/telegram.png)
+![Telegram notification](docs/screenshots/telegram.jpg)
 *Automatic notification when the price enters a zone*
-
-![Global context](docs/screenshots/global-context.png)
-*Macro market context via CoinMarketCap*
 
 ---
 
